@@ -19,7 +19,8 @@
 ## ⚡️ Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,mongodb,nodejs,firebase,supabase,expressjs,mui,tailwindcss,vercel" />
 <br>
-## ☁️ sub skills
+
+## sub skills
 * Auth.js
 * DaisyUI
 * React Hook Form
