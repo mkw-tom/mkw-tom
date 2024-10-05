@@ -18,6 +18,7 @@
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,mongodb,nodejs,firebase,supabase,expressjs,mui,tailwindcss" />
+<img alt="my skills" src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png"/>
 <br>
 
 
