@@ -26,6 +26,7 @@
 * React Hook Form
 * Zod
 * mongoose
+<br>
 
 ## 🤏 few skills
 * vue.js
@@ -33,7 +34,6 @@
 * PostgreSQL
 * AWS Lambda
 * AWS Gatway
-* microCMS API
   
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
