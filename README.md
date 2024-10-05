@@ -27,6 +27,15 @@
 * Zod
 * mongoose
 
+## 🤏 few skills
+* vue.js
+* prismaORM
+* PostgreSQL
+* AWS Lambda
+* AWS Gatway
+* microCMS API
+  
+
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
