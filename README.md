@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a student engineer.
 - 🏖️ I'm from Okinawa in Japan
-- 🌱 I’m currently learning TypeScript!
+- 🌱 I've been programming for 7 months.!
 <br>
 
 
@@ -26,12 +26,11 @@
 * React Hook Form
 * Zod
 * mongoose
+＊ OpenAI API
 <br>
 
 ## 🤏 few skills
 * vue.js
-* prismaORM
-* PostgreSQL
 * AWS Lambda
 * AWS Gatway
 <br>
