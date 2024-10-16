@@ -26,7 +26,6 @@
 * React Hook Form
 * Zod
 * mongoose
-＊ OpenAI API
 <br>
 
 ## 🤏 few skills
