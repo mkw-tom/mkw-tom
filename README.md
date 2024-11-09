@@ -13,9 +13,9 @@
 <br>
 
 ## 🧸Products
-### WorkME       - AI適職診断 -        [アプリを開く](https://tekishoku-sinndann.vercel.app/)
+### - [WorkME       - AI適職診断 - ](https://tekishoku-sinndann.vercel.app/)
 
-### Entrix       - 就活管理アプリ -         [アプリを開く](https://shuukatu-app.vercel.app/)
+### - [Entrix       - 就活管理アプリ - ](https://shuukatu-app.vercel.app/)
 
 
 <!-- 3. 好きな技術スタックに変更 -->
