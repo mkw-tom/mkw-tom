@@ -13,10 +13,10 @@
 <br>
 
 ## 🧸Products
-### WorkME - AI適職診断 -
+### WorkME       - AI適職診断 -
 [アプリを開く](https://tekishoku-sinndann.vercel.app/)
 
-### Entrix - 就活管理アプリ - 
+### Entrix       - 就活管理アプリ - 
 [アプリを開く](https://shuukatu-app.vercel.app/)
 
 
