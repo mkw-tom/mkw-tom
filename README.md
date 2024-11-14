@@ -12,7 +12,7 @@
 - 🌱 I've been programming for 8 months.!
 <br>
 
-## 🧸Products
+## 🧸 Products
 - ### [WorkME       - AI適職診断 - ](https://github.com/mkw-tom/tekishoku-sinndann)
 
 - ### [Entrix       - 就活管理アプリ - ](https://github.com/mkw-tom/shuukatu-app)
@@ -33,6 +33,7 @@
 
 ## 🤏 few skills
 * vue.js
+* Amazon DynamoDB
 * AWS Lambda
 * AWS Gatway
 <br>
