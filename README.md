@@ -13,7 +13,7 @@
 <br>
 
 ## 🧸 Products
-- ### [WorkME       - AI適職診断 - ](https://github.com/mkw-tom/tekishoku-sinndann)
+- ### [MBTI適職診断](https://github.com/mkw-tom/tekishoku-sinndann)
 
 - ### [Entrix       - 就活管理アプリ - ](https://github.com/mkw-tom/shuukatu-app)
 
