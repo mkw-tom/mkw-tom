@@ -28,6 +28,7 @@
 * DaisyUI
 * React Hook Form
 * Zod
+* framer motion
 * mongoose
 <br>
 
