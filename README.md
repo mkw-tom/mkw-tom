@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a student engineer.
 - 🏖️ I'm from Okinawa in Japan
-- 🌱 I've been programming for 8 months.!
+- 🌱 I've been programming for 10 months.!
 <br>
 
 ## 🧸 Products
@@ -20,23 +20,16 @@
 <br>
 
 ## ⚡️ Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,mongodb,nodejs,firebase,supabase,expressjs,mui,tailwindcss,postman,vercel,redux,docker" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,nodejs,expressjs,mongodb,firebase,supabase,,tailwindcss,mui,vercel,redux,docker,aws,jest,postman" />
 <br>
 
-## ⛈️ sub skills
+### ⛈️ Other Skills
 * Auth.js
 * DaisyUI
 * React Hook Form
 * Zod
 * framer motion
 * mongoose
-<br>
-
-## 🤏 few skills
-* vue.js
-* Amazon DynamoDB
-* AWS Lambda
-* AWS Gatway
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
