@@ -25,11 +25,13 @@
 
 ### ⛈️ Other Skills
 * Auth.js
-* DaisyUI
+* daisyUI
 * React Hook Form
 * Zod
-* framer motion
+* Framer Motion
 * mongoose
+* microCMS
+* OpenAI API
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
