@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a student engineer.
 - 🏖️ I'm from Okinawa in Japan
-- 🌱 I've been programming for 10 months.!
+- 🌱 I've only been programming for a year.!
 <br>
 
 ## 🧸 Products
@@ -20,7 +20,7 @@
 <br>
 
 ## ⚡️ Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,nodejs,express,mongodb,firebase,supabase,tailwindcss,mui,vercel,redux,docker,aws,jest,postman" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,nodejs,express,mongodb,firebase,supabase,tailwindcss,mui,vercel,redux,docker,aws,jest,postman,prisma" />
 <br>
 
 ### ⛈️ Other Skills
