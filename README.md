@@ -20,10 +20,11 @@
 <br>
 
 ## ⚡️ Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,nodejs,express,mongodb,firebase,supabase,tailwindcss,mui,vercel,redux,docker,aws,jest,postman,prisma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,nodejs,express,mongodb,firebase,supabase,tailwindcss,mui,vercel,redux,docker,aws,jest,postman,prisma,figma" />
 <br>
 
-### ⛈️ Other Skills
+### ⛈️ Other
+* neonDB(postgresql)
 * Auth.js
 * daisyUI
 * React Hook Form
