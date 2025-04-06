@@ -13,6 +13,7 @@
 <br>
 
 ## 🧸 Products
+- ### [SHIFTRY      - 小規模店舗向けのシフト管理SaaS -](https://github.com/mkw-tom/SHIFTRY/blob/main/README.md) 
 - ### [MBTI適職診断](https://github.com/mkw-tom/tekishoku-sinndann)
 
 - ### [Entrix       - 就活管理アプリ - ](https://github.com/mkw-tom/shuukatu-app)
