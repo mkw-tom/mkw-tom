@@ -9,13 +9,12 @@
 
 - 🧑‍💻 I'm a student engineer.
 - 🏖️ I'm from Okinawa in Japan
-- 🌱 I've only been programming for a year.!
+
 <br>
 
 ## 🧸 Products
-- ### [【SHIFTRY】      - 小規模店舗向けのシフト管理SaaS -　（※開発中）](https://github.com/mkw-tom/SHIFTRY-introduction) 
+- ### [【Shiftry】      - LINE完結型シフト管理ツール -　（※開発中）](https://github.com/mkw-tom/shiftry) 
 - ### [【MBTI適職診断】](https://github.com/mkw-tom/tekishoku-sinndann)
-
 - ### [【Entrix】       - 就活管理アプリ - ](https://github.com/mkw-tom/shuukatu-app)
 
 <br>
@@ -34,6 +33,7 @@
 * mongoose
 * microCMS
 * OpenAI API
+* LIFF
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
