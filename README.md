@@ -20,7 +20,7 @@
 <br>
 
 ## ⚡️ Learning
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,vue,nodejs,express,ruby,mongodb,firebase,supabase,tailwindcss,mui,vercel,redux,docker,aws,jest,postman,prisma,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,vite,next,vue,nodejs,express,ruby,mongodb,firebase,supabase,tailwindcss,mui,vercel,redux,docker,aws,jest,postman,prisma,figma" />
 <br>
 
 ### ⛈️ Other
