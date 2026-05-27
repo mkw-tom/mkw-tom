@@ -9,13 +9,6 @@
 
 <br>
 
-## 🧸 Products
-- ### 【Shiftry】      - LINE完結型シフト管理ツール -　（※開発中）
-- ### [【MBTI適職診断】](https://github.com/mkw-tom/tekishoku-sinndann)
-- ### [【Entrix】       - 就活管理アプリ - ](https://github.com/mkw-tom/shuukatu-app)
-
-<br>
-
 ## ⚡️ Learning
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,vite,next,vue,nodejs,express,ruby,mongodb,firebase,supabase,tailwindcss,mui,vercel,redux,docker,aws,jest,postman,prisma,figma" />
 <br>
